@@ -1,3 +1,5 @@
+import Cards from "./ Cards";
+
 const Forest = () => {
     return (
       <div className="h-screen bg-cover bg-center" style={{ backgroundImage: `url('https://i.pinimg.com/474x/bf/8b/68/bf8b68084e833c28b5585b9cf83ddec2.jpg')` }}>
@@ -9,6 +11,7 @@ const Forest = () => {
             </p>
           </div>
         </div>
+        <Cards/>
       </div>
     );
   };

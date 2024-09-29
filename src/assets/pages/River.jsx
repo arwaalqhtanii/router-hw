@@ -1,3 +1,4 @@
+import Cards from "./ Cards";
 const River = () => {
     return (
       <div className="h-screen bg-cover bg-center" style={{ backgroundImage: `url('https://i.pinimg.com/474x/bf/6f/fa/bf6ffa7aa9ffdd476a994d579911a1d6.jpg')` }}>
@@ -9,6 +10,7 @@ const River = () => {
             </p>
           </div>
         </div>
+        <Cards/>
       </div>
     );
   };

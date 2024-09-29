@@ -1,3 +1,5 @@
+import Cards from "./ Cards";
+
 const Desert = () => {
     return (
       <div className="h-screen bg-cover bg-center" style={{ backgroundImage: `url('https://i.pinimg.com/474x/10/34/23/1034236be6e18b0aa6532c6aecf9bb2c.jpg')` }}>
@@ -9,6 +11,7 @@ const Desert = () => {
             </p>
           </div>
         </div>
+        <Cards/>
       </div>
     );
   };

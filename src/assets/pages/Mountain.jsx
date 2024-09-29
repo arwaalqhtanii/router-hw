@@ -1,3 +1,4 @@
+import Cards from "./ Cards";
 const Mountain = () => {
     return (
       <div className="h-screen bg-cover bg-center" style={{ backgroundImage: `url('https://i.pinimg.com/474x/4d/90/ca/4d90caafeec8c8deef38e588fb369b18.jpg')` }}>
@@ -9,6 +10,7 @@ const Mountain = () => {
             </p>
           </div>
         </div>
+       <Cards/>
       </div>
     );
   };
