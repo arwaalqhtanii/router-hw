@@ -7,7 +7,7 @@ const Forest = () => {
           <div>
             <h1 className="text-6xl font-bold mb-4 font-serif">Forest</h1>
             <p className="text-xl max-w-xl mx-auto font-light leading-relaxed">
-              A forest is a large area dominated by trees. Forests play a crucial role in supporting biodiversity, regulating the climate, and providing resources for human use.
+              A forest is a large area dominated by trees. 
             </p>
           </div>
         </div>

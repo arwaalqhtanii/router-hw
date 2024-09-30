@@ -6,7 +6,7 @@ const Mountain = () => {
           <div>
             <h1 className="text-6xl font-bold mb-4 font-serif">Mountain</h1>
             <p className="text-xl max-w-xl mx-auto font-light leading-relaxed">
-              A mountain is a large landform that rises prominently above its surroundings, typically exhibiting steep slopes, a defined summit, and considerable height. Mountains often serve as natural boundaries and offer breathtaking views.
+              A mountain is a large landform that rises prominently above its surroundings.
             </p>
           </div>
         </div>

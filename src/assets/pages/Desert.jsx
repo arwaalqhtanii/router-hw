@@ -7,7 +7,7 @@ const Desert = () => {
           <div>
             <h1 className="text-6xl font-bold mb-4 font-serif">Desert</h1>
             <p className="text-xl max-w-xl mx-auto font-light leading-relaxed">
-              The desert is a barren area where little precipitation occurs, making life challenging for plants and animals. Despite its harsh conditions, deserts are home to a variety of unique life forms.
+              The desert is a barren area where little precipitation occurs.
             </p>
           </div>
         </div>

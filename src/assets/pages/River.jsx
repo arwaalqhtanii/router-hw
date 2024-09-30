@@ -6,7 +6,7 @@ const River = () => {
           <div>
             <h1 className="text-6xl font-bold mb-4 font-serif">River</h1>
             <p className="text-xl max-w-xl mx-auto font-light leading-relaxed">
-              A river is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake, or another river. Rivers are essential for life and serve as important natural resources.
+              A river is a natural flowing watercourse, usually freshwater, flowing towards an ocean .
             </p>
           </div>
         </div>
